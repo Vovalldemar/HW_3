@@ -1,0 +1,14 @@
+C:\Users\NPC\Desktop\HW\3\bin\Debug\net8.0\3.exe
+C:\Users\NPC\Desktop\HW\3\bin\Debug\net8.0\3.deps.json
+C:\Users\NPC\Desktop\HW\3\bin\Debug\net8.0\3.runtimeconfig.json
+C:\Users\NPC\Desktop\HW\3\bin\Debug\net8.0\3.dll
+C:\Users\NPC\Desktop\HW\3\bin\Debug\net8.0\3.pdb
+C:\Users\NPC\Desktop\HW\3\obj\Debug\net8.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPC\Desktop\HW\3\obj\Debug\net8.0\3.AssemblyInfoInputs.cache
+C:\Users\NPC\Desktop\HW\3\obj\Debug\net8.0\3.AssemblyInfo.cs
+C:\Users\NPC\Desktop\HW\3\obj\Debug\net8.0\3.csproj.CoreCompileInputs.cache
+C:\Users\NPC\Desktop\HW\3\obj\Debug\net8.0\3.dll
+C:\Users\NPC\Desktop\HW\3\obj\Debug\net8.0\refint\3.dll
+C:\Users\NPC\Desktop\HW\3\obj\Debug\net8.0\3.pdb
+C:\Users\NPC\Desktop\HW\3\obj\Debug\net8.0\3.genruntimeconfig.cache
+C:\Users\NPC\Desktop\HW\3\obj\Debug\net8.0\ref\3.dll
